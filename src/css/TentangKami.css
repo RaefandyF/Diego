@@ -1,0 +1,95 @@
+.tentang-kami .section1 .div-left {
+    margin-left: -7vw;
+    margin-right: 7vw;
+}
+
+
+.tentang-kami .section1 .div-left h1 {
+    margin-top: 5vw;
+    width: 37.847vw;
+    height: 3.125vw;
+    color: #CA5116;
+    font-family: Poppins;
+    font-size: 2.431vw;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.tentang-kami .section1 .div-left h2 {
+    width: 28.750vw;
+    height: 3.125vw;
+    color: #000;
+    font-family: Poppins;
+    font-size: 1.736vw;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 2.5vw;
+}
+
+.tentang-kami .section1 .div-left p {
+    margin-top: 2.5vw;
+    width: 29.097vw;
+    height: 5.208vw;
+    color: #4E4E4E;
+    font-family: Poppins;
+    font-size: 1.111vw;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.tentang-kami .section1 .div-right .logo-diego {
+    width: 35.778vw;
+    height: 30.500vw;
+}
+
+.tentang-kami .section1 .hias1 {
+    width: 13.125vw;
+    height: 12.778vw;
+    position: relative;
+    top: 20vw;
+    right: 88vw;
+}
+
+/* section2 */
+
+.tentang-kami .section2 {
+    margin-top: 5vw;
+}
+
+.tentang-kami .section2 .section2-img {
+    width: 76.528vw;
+    height: 26.250vw;
+    margin-left: 11vw;
+}
+
+.tentang-kami .section3 {
+    margin-top: 5vw;
+}
+
+.tentang-kami .section3 .section3-img {
+    width: 100vw;
+    height: 41.389vw;
+}
+
+.tentang-kami .section4 {
+    margin-top: 5vw;
+    margin-left: 9vw;
+}
+
+.tentang-kami .section4 .section4-img {
+    height: 68.889vw;
+    width: 78.611vw;
+}
+
+.tentang-kami .section5 {
+    margin-top: 6vw;
+    margin-left: 9vw;
+}
+
+.tentang-kami .section5 .section5-img {
+    height: 38.958vw;
+    width: 78.611vw;
+}

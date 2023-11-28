@@ -1,0 +1,63 @@
+.dashboard .section1 {
+    padding-top: 5vw;
+}
+
+.dashboard .section1 .umkm-info-div {
+    margin-left: -10vw;
+
+}
+
+.dashboard .section1 h1 {
+    margin-top: 3vw;
+    width: 37.847vw;
+    height: 3.125vw;
+    flex-shrink: 0;
+    color: #CA5116;
+    font-family: Inter;
+    font-size: 2.431vw;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.dashboard .section1 button {
+    margin-top: 2vw;
+    width: 12.083vw;
+    height: 2.917vw;
+    border-radius: 0.694vw;
+    background: #CA5116;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.111vw;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+.dashboard .section1 .nama-umkm {
+    color: #000;
+    font-family: Poppins;
+    font-size: 1.111vw;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.dashboard .section1 .deskripsi-umkm {
+    margin-top: 1vw;
+    width: 35.694vw;
+    color: #000;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 1.111vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.dashboard .section1 .gambar-dashboard-1 {
+    width: 40.958vw;
+    height: 26.875vw;
+    margin-left: 9vw;
+}

@@ -1,0 +1,83 @@
+.go-digital-consultation-form .section1 {
+    margin-top: 7vw;
+}
+
+.go-digital-consultation-form .section1 .section1-img {
+    margin-left: 8vw;
+    width: 60.486vw;
+    height: 18.264vw;
+}
+
+.go-digital-consultation-form .section2 {
+    margin-left: 7vw;
+}
+
+.go-digital-consultation-form .section2 .section2-right {
+    margin-left: 4vw;
+}
+
+.go-digital-consultation-form .section2 .nomor {
+    margin-top: 5vw;
+    color: #000;
+    font-family: Poppins;
+    font-size: 1.944vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2.778vw; /* 142.857% */
+}
+
+.go-digital-consultation-form .section2 .judul-nomor {
+    color: #CA5116;
+    font-family: Poppins;
+    font-size: 1.944vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2.778vw; /* 142.857% */
+}
+
+.go-digital-consultation-form .section2 .input-data label {
+    width: 40vw;
+    margin-top: 2vw;
+    color: #000;
+    font-family: Poppins;
+    font-size: 1.250vw;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.go-digital-consultation-form .section2 .input-data input {
+    padding: 0 1vw 2vw 1vw;
+    margin-top: 1vw;
+    width: 39.931vw;
+    height: 4.167vw;
+    border-radius: 0.694vw;
+    border: 0.069vw solid #000;
+    background: #FFF;
+}
+
+.go-digital-consultation-form .section2 .section2-right .input-data input {
+    height: 12.903vw;
+    padding: 0 1vw 11vw 1vw;
+}
+
+.go-digital-consultation-form .section3 .button-selanjutnya {
+    margin-top: 8vw;
+    width: 100%;
+    height: 6.944vw;
+    background: #000;
+}
+
+.go-digital-consultation-form .section3 .button-selanjutnya:hover {
+    background-color: #ca5115;
+}
+
+.go-digital-consultation-form .section3 .button-selanjutnya h1 {
+    color: white;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 2.431vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
